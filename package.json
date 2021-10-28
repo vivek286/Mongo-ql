@@ -1,0 +1,22 @@
+{
+  "name": "mongo-ql",
+  "version": "1.0.0",
+  "description": "A mongo db libary to interact with graph ql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek286/Mongo-ql.git"
+  },
+  "author": "Vivek Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek286/Mongo-ql/issues"
+  },
+  "homepage": "https://github.com/vivek286/Mongo-ql#readme",
+  "dependencies": {
+    "mongodb": "^4.1.3"
+  }
+}
